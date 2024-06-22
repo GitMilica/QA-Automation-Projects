@@ -1,3 +1,17 @@
+This repository contains a collection of QA automation projects. The projects focus on automating tests for various web functionalities, including:
+
+- Google Search Tests:
+Automated tests for verifying the search functionality on Google.
+- Yahoo Search Tests:
+Automated tests for verifying the search functionality on Yahoo.
+- Login Form Tests:
+Automated tests for validating login forms, including successful logins, incorrect credentials handling, and form validations.
+- Web Elements List Tests:
+Automated tests for verifying the presence and correctness of list elements on different web pages.
+
+
+
+
 # javaSelenium
 Default Java Selenium project
 
